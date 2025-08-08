@@ -3,6 +3,15 @@ A simple and private way to manage your subscriptions using a Telegram bot. Get 
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Backend**: [Go (Golang)](https://go.dev/)  
+- **Database**: [SQLite3](https://www.sqlite.org/) (file-based, zero-configuration)
+- **Telegram SDK**: [telego](https://github.com/mymmrac/telego) — a fully featured Telegram bot API library for Go
+- **Storage**: Local `.db` file (no external DB required)
+
+---
+
 ## ✅ Get Started
 
 ### 🔑 Get a Telegram Bot Token
